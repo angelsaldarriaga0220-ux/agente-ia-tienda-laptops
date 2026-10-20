@@ -1,0 +1,22 @@
+{
+  "LENOVO-I5": {
+    "nombre": "Lenovo IdeaPad Core i5",
+    "precio": 650,
+    "stock": 7
+  },
+  "HP-R5": {
+    "nombre": "HP Ryzen 5",
+    "precio": 720,
+    "stock": 4
+  },
+  "DELL-I7": {
+    "nombre": "Dell Inspiron Core i7",
+    "precio": 1100,
+    "stock": 4
+  },
+  "ASUS-I3": {
+    "nombre": "ASUS VivoBook Core i3",
+    "precio": 500,
+    "stock": 9
+  }
+}
